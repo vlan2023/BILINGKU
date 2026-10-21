@@ -1,0 +1,6 @@
+{
+  "name": "Studio Web Kreatif",
+  "description": "Platform aplikasi web interaktif modern untuk mewujudkan proyek digital Anda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
